@@ -19,18 +19,18 @@
                                                 class="table table-bordered text-nowrap mb-0">
                                                 <thead class="border-top">
                                                     <tr>
-                                                        <th class="bg-transparent border-bottom-0">
+                                                        <th class="text-center bg-transparent border-bottom-0">
                                                             Nombre
                                                         </th>
-                                                        <th class="bg-transparent border-bottom-0">
+                                                        <th class="text-center bg-transparent border-bottom-0">
                                                             Grupo
                                                         </th>
-                                                        <th class="bg-transparent border-bottom-0">
+                                                        <th class="text-center bg-transparent border-bottom-0">
                                                             Rut
                                                         </th>
-                                                        <th class="bg-transparent border-bottom-0"
+                                                        <th class="text-center bg-transparent border-bottom-0"
                                                             style="width: 5%;">
-                                                            Action
+                                                            Acciones
                                                         </th>
                                                     </tr>
                                                 </thead>
@@ -39,18 +39,16 @@
                                                         <td class="text-center">
                                                             <div class="mt-0 mt-sm-2 d-block">
                                                                 <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #98765490</h6>
+                                                                    SOCIEDAD DE TRANSPORTES LO SALDES LTDA</h6>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/10.jpg)"></span>
                                                                 <div
                                                                     class="ms-3 mt-0 mt-sm-2 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Headsets</h6>
+                                                                        PANIFICADORA LO SALDES S.A.</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -59,7 +57,7 @@
                                                                 <div class="mt-0 mt-sm-3 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Cherry Blossom</h6>
+                                                                        78933370-K</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -80,18 +78,16 @@
                                                         <td class="text-center">
                                                             <div class="mt-0 mt-sm-2 d-block">
                                                                 <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #76348798</h6>
+                                                                    INVERSIONES LA GLORIA S A</h6>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/12.jpg)"></span>
                                                                 <div
                                                                     class="ms-3 mt-0 mt-sm-2 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Flower Pot</h6>
+                                                                        PANIFICADORA LO SALDES S.A.</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -100,7 +96,7 @@
                                                                 <div class="mt-0 mt-sm-3 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Simon Sais</h6>
+                                                                        96995430-3</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -121,18 +117,16 @@
                                                         <td class="text-center">
                                                             <div class="mt-0 mt-sm-2 d-block">
                                                                 <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #23986456</h6>
+                                                                    PANADERIA LO SALDES SAN CARLOS DE APOQU	</h6>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/4.jpg)"></span>
                                                                 <div
                                                                     class="ms-3 mt-0 mt-sm-2 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Pen Drive</h6>
+                                                                        PANIFICADORA LO SALDES S.A.</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -141,7 +135,7 @@
                                                                 <div class="mt-0 mt-sm-3 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Manny Jah</h6>
+                                                                        76019055-1</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -162,18 +156,16 @@
                                                         <td class="text-center">
                                                             <div class="mt-0 mt-sm-2 d-block">
                                                                 <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #87456325</h6>
+                                                                    LOGISTICA LOS LIBERTADORES LIMITADA</h6>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/8.jpg)"></span>
                                                                 <div
                                                                     class="ms-3 mt-0 mt-sm-2 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        New Bowl</h6>
+                                                                        DARTEL S A</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -182,7 +174,7 @@
                                                                 <div class="mt-0 mt-sm-3 d-block">
                                                                     <h6
                                                                         class="mb-0 fs-14 fw-semibold">
-                                                                        Florinda Carasco</h6>
+                                                                        76410129-4</h6>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -199,170 +191,8 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-bottom">
-                                                        <td class="text-center">
-                                                            <div class="mt-0 mt-sm-2 d-block">
-                                                                <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #65783926</h6>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/6.jpg)"></span>
-                                                                <div
-                                                                    class="ms-3 mt-0 mt-sm-2 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Leather Watch</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <div class="mt-0 mt-sm-3 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Ivan Notheridiya</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="g-2">
-                                                                <a class="btn text-primary btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Edit"><span
-                                                                        class="fe fe-edit fs-14"></span></a>
-                                                                <a class="btn text-danger btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Delete"><span
-                                                                        class="fe fe-trash-2 fs-14"></span></a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="border-bottom">
-                                                        <td class="text-center">
-                                                            <div class="mt-0 mt-sm-2 d-block">
-                                                                <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #34654895</h6>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/1.jpg)"></span>
-                                                                <div
-                                                                    class="ms-3 mt-0 mt-sm-2 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Digital Camera</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <div class="mt-0 mt-sm-3 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Willie Findit</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="g-2">
-                                                                <a class="btn text-primary btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Edit"><span
-                                                                        class="fe fe-edit fs-14"></span></a>
-                                                                <a class="btn text-danger btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Delete"><span
-                                                                        class="fe fe-trash-2 fs-14"></span></a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="border-bottom">
-                                                        <td class="text-center">
-                                                            <div class="mt-0 mt-sm-2 d-block">
-                                                                <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #98765345</h6>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/11.jpg)"></span>
-                                                                <div
-                                                                    class="ms-3 mt-0 mt-sm-2 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Earphones</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <div class="mt-0 mt-sm-3 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Addie Minstra</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="g-2">
-                                                                <a class="btn text-primary btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Edit"><span
-                                                                        class="fe fe-edit fs-14"></span></a>
-                                                                <a class="btn text-danger btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Delete"><span
-                                                                        class="fe fe-trash-2 fs-14"></span></a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="border-bottom">
-                                                        <td class="text-center">
-                                                            <div class="mt-0 mt-sm-2 d-block">
-                                                                <h6 class="mb-0 fs-14 fw-semibold">
-                                                                    #67546577</h6>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <span class="avatar bradius"
-                                                                    style="background-image: url(../assets/images/orders/2.jpg)"></span>
-                                                                <div
-                                                                    class="ms-3 mt-0 mt-sm-2 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Shoes</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex">
-                                                                <div class="mt-0 mt-sm-3 d-block">
-                                                                    <h6
-                                                                        class="mb-0 fs-14 fw-semibold">
-                                                                        Laura Biding</h6>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                        <td>
-                                                            <div class="g-2">
-                                                                <a class="btn text-primary btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Edit"><span
-                                                                        class="fe fe-edit fs-14"></span></a>
-                                                                <a class="btn text-danger btn-sm"
-                                                                    data-bs-toggle="tooltip"
-                                                                    data-bs-original-title="Delete"><span
-                                                                        class="fe fe-trash-2 fs-14"></span></a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
+
+
                                                 </tbody>
                                             </table>
                                         </div>

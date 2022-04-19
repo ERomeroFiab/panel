@@ -73,7 +73,7 @@
                                                     style="width: 81.4583px;">
                                                     Rut
                                                 </th>
-                                                <Th aria-controls="responsive-datatable" style="width: 81.4583px;">Actions
+                                                <Th aria-controls="responsive-datatable" style="width: 81.4583px;">Acciones
                                                 </Th>
                                             </tr>
                                         </thead>
