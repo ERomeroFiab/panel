@@ -19,4 +19,12 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::group(['middleware' => ['auth']], function() {
+    
+    Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+    Route::get('/menu/previred', [App\Http\Controllers\MenuController::class, 'previred_index'])->name('menu.previred');
+    Route::get('/menu/silvertool', [App\Http\Controllers\MenuController::class, 'silvertool_index'])->name('menu.silvertool');
+    Route::get('/menu/download_pdf', [App\Http\Controllers\MenuController::class, 'download_pdf_index'])->name('menu.download_pdf');
+
+
+});

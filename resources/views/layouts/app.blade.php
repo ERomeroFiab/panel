@@ -163,10 +163,16 @@
                                 <h3>Empresas</h3>
                             </li>
                             <li class="slide">
-                                <a class="side-menu__item" data-bs-toggle="slide" href="#"><i class="side-menu__icon fa fa-industry"></i><span class="side-menu__label">En Previred</span></a>
+                                <a class="side-menu__item" data-bs-toggle="slide" href="{{ route('menu.previred') }}"><i class="side-menu__icon fa fa-industry"></i><span class="side-menu__label">En Previred</span></a>
                             </li>
                             <li class="slide">
-                                <a class="side-menu__item" data-bs-toggle="slide" href="#"><i class="side-menu__icon fa fa-industry"></i><span class="side-menu__label">En SilverTool</span></a>
+                                <a class="side-menu__item" data-bs-toggle="slide" href="{{ route('menu.silvertool') }}"><i class="side-menu__icon fa fa-industry"></i><span class="side-menu__label">En SilverTool</span></a>
+                            </li>
+                            <li class="sub-category">
+                                <h3>Extracción de datos</h3>
+                            </li>
+                            <li class="slide">
+                                <a class="side-menu__item" data-bs-toggle="slide" href="{{ route('menu.download_pdf') }}"><i class="side-menu__icon fa fa-industry"></i><span class="side-menu__label">Descarga de PDF's</span></a>
                             </li>
 
 
