@@ -560,7 +560,7 @@
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <div class="table-responsive">
-                                                                            <table id="file-datatable"
+                                                                            <table id="file-datatable2"
                                                                                 class="table table-bordered text-nowrap key-buttons border-bottom">
                                                                                 <thead>
                                                                                     <tr>
@@ -1082,4 +1082,19 @@
             </div>
         </div>
     </div>
+@endsection
+
+@section('customjs')
+    <script>
+        var table = $('#file-datatable2').DataTable({
+            buttons: ['copy', 'excel', 'pdf', 'colvis'],
+            language: {
+                searchPlaceholder: 'Search...',
+                scrollX: "100%",
+                sSearch: '',
+            }
+        });
+
+        table.buttons().container().appendTo('#file-datatable2_wrapper .col-md-6:eq(0)');
+    </script>
 @endsection
