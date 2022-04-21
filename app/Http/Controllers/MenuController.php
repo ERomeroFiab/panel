@@ -20,4 +20,9 @@ class MenuController extends Controller
     {
         return view('sidebar_menu.download_pdf');
     }
+
+    public function convert_pdf_index()
+    {
+        return view('sidebar_menu.convert_pdf');
+    }
 }
