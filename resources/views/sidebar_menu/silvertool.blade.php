@@ -15,7 +15,7 @@
                                 <div class="tab-content">
                                     <div class="tab-pane active" id="tab5">
                                         <div class="table-responsive">
-                                            <table id="data-table"
+                                            <table id="EmpSilverTool"
                                                 class="table table-bordered text-nowrap mb-0">
                                                 <thead class="border-top">
                                                     <tr>
@@ -2592,4 +2592,19 @@
         </div>
     </div>
 
+@endsection
+
+@section('customjs')
+    <script>
+        var table = $('#EmpSilverTool').DataTable({
+            buttons: ['copy', 'excel', 'pdf', 'colvis'],
+            language: {
+                searchPlaceholder: 'Search...',
+                scrollX: "100%",
+                sSearch: '',
+            }
+        });
+        table.buttons().container().appendTo('#EmpSilverTool_wrapper .col-md-6:eq(0)');
+    </script>
+    
 @endsection

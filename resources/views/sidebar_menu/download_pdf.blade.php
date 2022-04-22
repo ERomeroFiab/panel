@@ -60,7 +60,7 @@
                                     <div class="tab-content">
                                         <div class="tab-pane active" id="tab5">
                                             <div class="table-responsive">
-                                                <table id="data-table" class="table table-bordered text-nowrap mb-0">
+                                                <table id="EmpPrevired" class="table table-bordered text-nowrap mb-0">
                                                     <thead class="border-top">
                                                         <tr>
                                                             <th class="text-center bg-transparent border-bottom-0">
@@ -226,7 +226,7 @@
                                                         <div class="tab-content">
                                                             <div class="tab-pane active" id="tab5">
                                                                 <div class="table-responsive">
-                                                                    <table id="data-table"
+                                                                    <table id="LibertaLimit"
                                                                         class="table table-bordered text-nowrap mb-0">
                                                                         <thead class="border-top">
                                                                             <tr>
@@ -339,7 +339,7 @@
                                                         <div class="tab-content">
                                                             <div class="tab-pane active" id="tab5">
                                                                 <div class="table-responsive">
-                                                                    <table id="data-table"
+                                                                    <table id="LightRoomSPA"
                                                                         class="table table-bordered text-nowrap mb-0">
                                                                         <thead class="border-top">
                                                                             <tr>
@@ -452,7 +452,7 @@
                                                         <div class="tab-content">
                                                             <div class="tab-pane active" id="tab5">
                                                                 <div class="table-responsive">
-                                                                    <table id="data-table"
+                                                                    <table id="CLightRoomSP"
                                                                         class="table table-bordered text-nowrap mb-0">
                                                                         <thead class="border-top">
                                                                             <tr>
@@ -560,3 +560,55 @@
         </div>
     </div>
 @endsection
+
+@section('customjs')
+    <script>
+        var table = $('#EmpPrevired').DataTable({
+            buttons: ['copy', 'excel', 'pdf', 'colvis'],
+            language: {
+                searchPlaceholder: 'Search...',
+                scrollX: "100%",
+                sSearch: '',
+            }
+        });
+
+        table.buttons().container().appendTo('#EmpPrevired_wrapper .col-md-6:eq(0)');
+    </script>
+    <script>
+        var table = $('#LibertaLimit').DataTable({
+            buttons: ['copy', 'excel', 'pdf', 'colvis'],
+            language: {
+                searchPlaceholder: 'Search...',
+                scrollX: "100%",
+                sSearch: '',
+            }
+        });
+
+        table.buttons().container().appendTo('#LibertaLimit_wrapper .col-md-6:eq(0)');
+    </script>
+    <script>
+        var table = $('#LightRoomSPA').DataTable({
+            buttons: ['copy', 'excel', 'pdf', 'colvis'],
+            language: {
+                searchPlaceholder: 'Search...',
+                scrollX: "100%",
+                sSearch: '',
+            }
+        });
+
+        table.buttons().container().appendTo('#LightRoomSPA_wrapper .col-md-6:eq(0)');
+    </script>
+    <script>
+        var table = $('#CLightRoomSP').DataTable({
+            buttons: ['copy', 'excel', 'pdf', 'colvis'],
+            language: {
+                searchPlaceholder: 'Search...',
+                scrollX: "100%",
+                sSearch: '',
+            }
+        });
+
+        table.buttons().container().appendTo('#CLightRoomSP_wrapper .col-md-6:eq(0)');
+    </script>   
+@endsection
+

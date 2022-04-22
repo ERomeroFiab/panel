@@ -1097,4 +1097,5 @@
 
         table.buttons().container().appendTo('#file-datatable2_wrapper .col-md-6:eq(0)');
     </script>
+    
 @endsection
