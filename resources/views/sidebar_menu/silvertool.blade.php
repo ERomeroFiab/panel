@@ -5,8 +5,9 @@
     <div class="row">
         <div class="col-12 col-sm-12">
             <div class="card">
-                <div class="card-header">
+                <div class="card-header justify-content-between">
                     <h3 class="card-title mb-0">Empresas en SilverTool</h3>
+                    <button type="button" class="btn btn-sm btn-primary">Actualizar empresas desde Silvertool</button>
                 </div>
                 <div class="card-body pt-4">
                     <div class="grid-margin">
